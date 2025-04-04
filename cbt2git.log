@@ -1,0 +1,9 @@
+2025-04-04 13:22:23.531104 - Received CBT.V508.FILE655.PDS from FILE655.XMI 
+2025-04-04 13:22:23.531920 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/$$$#DATE
+2025-04-04 13:22:23.532077 - Found $$$INSTR.txt (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/$$$INSTR
+2025-04-04 13:22:23.532206 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/$$NOTE01
+2025-04-04 13:22:23.532328 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/$$NOTE02
+2025-04-04 13:22:23.532445 - Found @FILE655.txt (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/@FILE655
+2025-04-04 13:22:23.532591 - Found CATCLJCL.rexx (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/CATCLJCL
+2025-04-04 13:22:23.532708 - Found CATCLRJC.jcl (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/CATCLRJC
+2025-04-04 13:22:23.532831 - Found CATCLR3.rexx (text/plain) in CBT.V508.FILE655.PDS, moved to PDS/CATCLR3
